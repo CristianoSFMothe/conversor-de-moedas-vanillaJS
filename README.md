@@ -1,6 +1,3 @@
-<p align="center">
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/CristianoDaSilvaFerreira/conversor-de-moedas-vanillaJS/?style=plastic"> <img alt="GitHub" src="https://img.shields.io/github/license/CristianoDaSilvaFerreira/conversor-de-moedas-vanillaJS/"> <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/CristianoDaSilvaFerreira/conversor-de-moedas-vanillaJS/"> <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/CristianoDaSilvaFerreira/conversor-de-moedas-vanillaJS/"> <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/CristianoDaSilvaFerreira/conversor-de-moedas-vanillaJS/">
-</p>
 
 <p align="center">
  <img src="https://img.shields.io/static/v1?label=Deveoper&message=CristianoFerreira&color=7159c1&style=for-the-badge&logo=ghost"/>
