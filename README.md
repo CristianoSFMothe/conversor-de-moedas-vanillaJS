@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/CristianoDaSilvaFerreira/Converso-Moeda-VanillaJS?style=plastic"> <img alt="GitHub" src="https://img.shields.io/github/license/CristianoDaSilvaFerreira/Converso-Moeda-VanillaJS"> <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/CristianoDaSilvaFerreira/Converso-Moeda-VanillaJS"> <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/CristianoDaSilvaFerreira/Converso-Moeda-VanillaJS"> <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/CristianoDaSilvaFerreira/Converso-Moeda-VanillaJS">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/CristianoDaSilvaFerreira/conversor-de-moedas-vanillaJS/?style=plastic"> <img alt="GitHub" src="https://img.shields.io/github/license/CristianoDaSilvaFerreira/conversor-de-moedas-vanillaJS/"> <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/CristianoDaSilvaFerreira/conversor-de-moedas-vanillaJS/"> <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/CristianoDaSilvaFerreira/conversor-de-moedas-vanillaJS/"> <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/CristianoDaSilvaFerreira/conversor-de-moedas-vanillaJS/">
 </p>
 
 <p align="center">
@@ -7,9 +7,9 @@
 </p>
 
 
-<h1>:moneybag: Converso Moeda VanillaJS</h1>
+<h1>:moneybag: Conversor de Moedas VanillaJS</h1>
 
-<p>:rocket: Um converso de moeda usando VanillaJS, sem uso de framework ou libs do JavaScript. Ou seja puro JavaScript.</p>
+<p>:rocket: Um conversor de moeda usando VanillaJS, sem uso de framework ou libs do JavaScript. Ou seja puro JavaScript.</p>
 
 
 <p>Esse projeto consiste em uma requisição atráves da <a href="https://www.exchangerate-api.com/" target="_blank">API ExchangeRate-API</a>, na qual depois de criar, poderá será ser feito a requisição dos dados da API. 
@@ -28,7 +28,7 @@
 ## 📥 Instalação e execução
 Faça um clone desse repósitorio, e acesse esse diretório
 ```bash
-  $ git clone https://github.com/CristianoDaSilvaFerreira/Converso-Moeda-VanillaJS.git
+  $ git clone https://github.com/CristianoDaSilvaFerreiraconversor-de-moedas-vanillaJS/.git
 ```
 
 ## :muscle: Contribuir
@@ -149,7 +149,7 @@ Você deve navegar até o seu repositório onde fez o fork e clicar no botão *N
 
 
 <h4 align="center"> 
-	🚧  Finalizado podendo ser acessado atráves do endereço <a href="https://cristianosfmothe.github.io/Converso-Moeda-VanillaJS/">Converso de Moedas</a>  🚧	
+	🚧  Finalizado podendo ser acessado atráves do endereço <a href="https://cristianosfmothe.github.io/conversor-de-moedas-vanillaJS//">Conversor de Moedas</a>  🚧	
 
  
 </h4>
